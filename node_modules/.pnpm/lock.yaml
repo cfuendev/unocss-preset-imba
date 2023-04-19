@@ -1,0 +1,13 @@
+lockfileVersion: 5.4
+
+specifiers:
+  '@unocss/core': ^0.51.4
+
+dependencies:
+  '@unocss/core': 0.51.4
+
+packages:
+
+  /@unocss/core/0.51.4:
+    resolution: {integrity: sha512-glPBN989gJNNVzjulH6NlLAekBLuZbsFRIDqwZ1ZaoWY6teu8Z6uo3pqFCy+ibjxZSEha77BcnKfDzd2Hccsdw==}
+    dev: false
