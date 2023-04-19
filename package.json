@@ -11,5 +11,9 @@
   "license": "ISC",
   "dependencies": {
     "@unocss/core": "^0.51.4"
+  },
+  "devDependencies": {
+    "unocss": "^0.51.5",
+    "vite": "^4.2.2"
   }
 }

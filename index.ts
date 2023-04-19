@@ -1,8 +1,8 @@
 // my-preset.ts
-import { Preset } from 'unocss'
+import { Preset } from '@unocss/core'
 
 export const myPreset: Preset = {
-  name: 'my-preset',
+  name: 'unocss-preset-imba',
   rules,
   variants: [/* ... */],
   shortcuts: [/* ... */]
